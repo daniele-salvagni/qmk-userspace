@@ -73,3 +73,5 @@
 #define __FUN_R3   _______, DESK_LT, DESK_RT, BR_SRCH, BR_MAIL, KC_VOLD, KC_VOLU, ___x___, ___x___, ___x___, KC_PGUP, ___x___
 #define __FUN_R4   _______, _______, _______, _______, _______, KC_MUTE, KC_MUTE, KC_ENT,  _______, KC_HOME, KC_PGDN, KC_END
 #define __FUN_R4b  _______, _______, _______, _______, _______, KC_MUTE,          KC_ENT,  _______, KC_HOME, KC_PGDN, KC_END
+
+// clang-format on
