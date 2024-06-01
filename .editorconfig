@@ -30,3 +30,8 @@ indent_style = tab
 
 [*.sh]
 end_of_line = lf
+
+[*.yaml]
+indent_style = space
+indent_size = 2
+quote_type = single
